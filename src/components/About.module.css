@@ -1,0 +1,10 @@
+.aboutpic {
+  width: 300px;
+  border-radius: 10%;
+  border: 5px cyan solid;
+}
+
+#about {
+  display: flex;
+  justify-content: end;
+}

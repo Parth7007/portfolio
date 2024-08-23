@@ -1,0 +1,10 @@
+/* Navbar.module.css */
+.logo {
+  width: 200px; /* Adjust as needed */
+}
+
+@media (min-width: 640px) {
+  .logo {
+    width: 300px; /* Original width for larger screens */
+  }
+}
