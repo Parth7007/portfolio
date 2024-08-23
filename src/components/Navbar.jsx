@@ -14,7 +14,7 @@ const Navbar = () => {
       
       <div className="mt-4 sm:mt-0 flex items-center justify-center">
         <a
-          href="/path-to-your-resume.pdf"
+          href="https://1drv.ms/b/s!An0z_hisEGEItHucSB8mV_kiGK03?e=dTtdkj"
           download
           className="bg-blue-500 text-white font-bold py-2 px-4 rounded-lg hover:bg-blue-600 transition-colors duration-200"
         >
